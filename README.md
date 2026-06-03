@@ -17,3 +17,4 @@ chapitre 5: Les boucles
 Dans ce chapitre 5, j'ai appris à utiliser les boucles(while(), do{}while; for()) dans JavaScript car il y a des petites subtilités qui sont partilières au langage:
 
 Chapitre6: Les fonctions
+Plusieurs notions sont abordées dans ce chapitre telles que la declarations des fonctions, leur utilisations et leur importance.
